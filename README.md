@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shromann&count_private=true&theme=react&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shromann&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
