@@ -1,7 +1,8 @@
 # 👋🏼  Hey, Welcome to Shromann's GitHub!
 
 I'm a Data Scientist at KPMG and a student of BSc at the University of Melbourne. 😄
-This github contains a collection of my works; which include:
+
+This github contains a collection of my works; which include
 1. Independent Projects
 2. Collaborations
 3. Hackathons
