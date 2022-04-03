@@ -1,6 +1,8 @@
 # 👋🏼  Hey, Welcome to Shromann's GitHub!
 
-I'm a Data Scientist at KPMG and a student of BSc at the University of Melbourne. 😄
+I'm a Data Scientist, Researcher and a student of BSc at the University of Melbourne. 😄
+
+My present initiative leading is Chronos, an ML scheduler using biometric user data. 
 
 This github contains a collection of my works; which include
 1. Independent Projects
