@@ -2,7 +2,7 @@
 
 I'm a Data Scientist, Researcher and a student of BSc at the University of Melbourne. 😄
 
-My present initiative leading is Chronos, an ML scheduler using biometric user data. 
+My present initiative is leading [Chronos](https://github.com/shromann/Chronos), an AI scheduler using user biometric data. 
 
 This github contains a collection of my works; which include
 1. Independent Projects
