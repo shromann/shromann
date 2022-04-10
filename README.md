@@ -1,6 +1,6 @@
 # 👋🏼  Hey, Welcome to Shromann's GitHub!
 
-I'm a Data Scientist, Researcher and a student of BSc at the University of Melbourne. 😄
+I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/) and a student of BSc at the University of Melbourne. 😄
 
 My present initiative is leading [Chronos](https://github.com/shromann/Chronos), an AI scheduler using user biometric data. 
 
