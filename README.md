@@ -1,4 +1,4 @@
-# 👋🏼  Hey, Welcome to Shromann's GitHub!
+# 👋🏼  Hey, Welcome to [Shromann's](https://www.linkedin.com/in/shromannmajumder/) GitHub!
 
 I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/) and an undergraduate data science student at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/). 😄
 
