@@ -1,13 +1,13 @@
 # 👋🏼  Hey, Welcome to Shromann's GitHub!
 
-I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/) and a student of BSc at the University of Melbourne. 😄
+I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/) and an undergraduate data science student at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/). 😄
 
 My present initiative is leading [Chronos](https://github.com/shromann/Chronos), an AI scheduler using user biometric data. 
 
-This github contains a collection of my works; which include
-1. Independent Projects
-2. Collaborations
-3. Hackathons
+This github contains a [collection of my works](https://github.com/shromann?tab=repositories); which include
+1. [Independent Projects](https://github.com/shromann/NYC-GeoSpatial-Analysis)
+2. [Collaborations](https://github.com/shromann/RoPaSci-360-Ai)
+3. [Hackathons](https://github.com/shromann/Google-Hackathon)
 
 Feel free to cruise around!
 
