@@ -9,8 +9,6 @@ This github contains a [collection of my works](https://github.com/shromann?tab=
 2. [Collaborations](https://github.com/shromann/RoPaSci-360-Ai)
 3. [Hackathons](https://github.com/shromann/Google-Hackathon)
 
-Feel free to cruise around!
-
 <!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shromann&count_private=true&theme=react&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) -->
 
