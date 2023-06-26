@@ -1,8 +1,9 @@
 # 👋🏼  Hey, Welcome to [Shromann's](https://www.linkedin.com/in/shromannmajumder/) GitHub!
 
-I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/) and an undergraduate data science student at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/). 😄
+I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/) at [SiSU Health](https://www.sisuhealthgroup.com/)
 
-My present initiative is leading [Chronos](https://github.com/shromann/Chronos), an AI scheduler using user biometric data. 
+I obtained my undergraduate degree in Data Science at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/), and currently pursuing Masters of IT, specialising in AI at UniMelb and Master of Financial Mathematics in Monash
+
 
 This github contains a [collection of my works](https://github.com/shromann?tab=repositories); which include
 1. [Independent Projects](https://github.com/shromann/NYC-GeoSpatial-Analysis)
