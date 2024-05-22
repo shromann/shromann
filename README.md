@@ -1,6 +1,6 @@
 # 👋🏼  Hey, Welcome to [Shromann's](https://www.linkedin.com/in/shromannmajumder/) GitHub!
 
-I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/) at [SiSU Health](https://www.sisuhealthgroup.com/)
+I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/)
 
 I obtained my undergraduate degree in Data Science at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/), and currently pursuing Masters of IT, specialising in AI at UniMelb and Master of Financial Mathematics in Monash
 
