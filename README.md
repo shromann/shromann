@@ -2,7 +2,7 @@
 
 I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/)
 
-I obtained my undergraduate degree in Data Science at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/), and currently pursuing Masters of IT, specialising in AI at UniMelb and Master of Financial Mathematics in Monash
+I obtained my undergraduate degree in Data Science at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/), and currently pursuing Masters of Financial Mathematics, at UNSW.
 
 
 This github contains a [collection of my works](https://github.com/shromann?tab=repositories); which include
