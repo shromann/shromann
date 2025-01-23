@@ -2,7 +2,7 @@
 
 I'm an [ML Engineer](https://www.linkedin.com/in/shromannmajumder/) at ANZ.
 
-I obtained my undergraduate degree in Data Science at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/), and currently pursuing Masters of Financial Mathematics, at [UNSW](https://www.unsw.edu.au/science/our-schools/maths/our-research/ranking-our-research#:~:text=%231%20ranked%20in%20Australia&text=In%20the%20QS%20World%20University,for%20Statistics%20and%20Operational%20Research).
+I obtained my undergraduate degree in Data Science at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/), and currently pursuing Masters of Financial Mathematics, at [UNSW](https://www.unsw.edu.au/science/our-schools/maths/our-research/ranking-our-research).
 
 
 This github contains a [collection of my works](https://github.com/shromann?tab=repositories); which include
