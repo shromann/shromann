@@ -1,6 +1,6 @@
 # 👋🏼  Hey, Welcome to [Shromann's](https://www.linkedin.com/in/shromannmajumder/) GitHub!
 
-I'm a [Data Scientist, Researcher](https://www.linkedin.com/in/shromannmajumder/)
+I'm an [ML Engineer](https://www.linkedin.com/in/shromannmajumder/) at ANZ.
 
 I obtained my undergraduate degree in Data Science at the [University of Melbourne](https://study.unimelb.edu.au/find/courses/major/data-science/), and currently pursuing Masters of Financial Mathematics, at UNSW.
 
